@@ -1,5 +1,4 @@
 # Exercicio 04 - Classificador de acesso (if, elif, else)
-#
 # Regras:
 # menor de 16 anos -> acesso nao permitido
 # 16 ou mais + tem ingresso -> entrada liberada
